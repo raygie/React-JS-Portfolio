@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+.App-button{
+  background-color: #61dafb;
+  min-width: 20vh;
+  min-height: 5vh;
+  border-radius: 25px;
+}
+.App-button:hover{
+  background-color: blueviolet;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +44,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body{
+  background: aliceblue;
+}
+html{
+  scroll-behavior: smooth;
+}
+ul{
+  list-style: none;
+  margin: 0;
+}
+::-webkit-scrollbar{
+  width: 10px;
+  background: #c1ceff;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 2em;
+  background: #282f4e;
 }

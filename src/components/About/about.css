@@ -1,0 +1,11 @@
+.about_img {
+    text-align: center;
+}
+.about_img img{
+    height: auto;
+    width: 70%;
+    border-radius: 10px;
+}
+.heading h1{
+    color: #7865ff;
+}

@@ -1,0 +1,14 @@
+.Footer{
+    text-align: center;
+    color: #282c34;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.media{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #7865ff;
+}
+.media:hover{
+    color: #282c34;
+}
