@@ -25,8 +25,9 @@ const Hero = () => {
                     <div className='hero_content'>
                         <h4>Welcome to My Personal Website</h4>
                         <h1>Hi, I'm <span>Raygie Ramos</span></h1>
-                        <h2 className='hero_effect mb-4'>a <span ref={textRef}></span></h2>
-                        <p className='hero_p2 mt-4'>I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.</p>
+                        <h1 className='hero_effect mb-4'>a <span ref={textRef}></span></h1>
+                        <p className='hero_p2 mt-4'>Hello. My name is Raygie Ramos, I am aspiring to become a Web developer and UI/UX Designer. I am knowledgeable in Bootstrap, Javascript and PHP- MySql. I like to collaborate with competent, kind, funny people who like to get things done.</p>
+                        {/* <p className='hero_p2 mt-4'>I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.</p> */}
                         <div className="hero_btns d-flex align-items-center gap-4 mt-5">
                             <button className='bn works_btn'><a href='#project'>See My Works</a></button>
                             <button className='bn resume'>Get My Resume</button>
