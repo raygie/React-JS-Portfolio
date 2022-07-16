@@ -56,7 +56,7 @@ const Portfolio = () => {
               <div className='title'>
                   <h2>React Js Portfolio Landing Page</h2>
                   <div className='proj_buttons'>
-                    <a href="" target="_blank"><button className='bn details_btn'> See Details</button></a>
+                    <a href="https://github.com/raygie/React-JS-Portfolio" target="_blank"><button className='bn details_btn'> See Details</button></a>
                   </div>
               </div>
             </div>
