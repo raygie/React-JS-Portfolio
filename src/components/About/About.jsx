@@ -15,7 +15,7 @@ function About() {
                 </Col>
                 <Col lg='6' md='6'>
                     <div className='heading mb-5'>
-                        <h4>Get to Know</h4>
+                        <h5>Get to Know</h5>
                         <h1>About Me</h1>
                     </div>
                 </Col>

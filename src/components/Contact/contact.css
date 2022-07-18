@@ -39,3 +39,11 @@
 .submit:hover{
     color: #7865ff;
 }
+.card{
+    border-radius: 10px ;
+    border-color: #132347;
+}
+.side{
+    background: #132347;
+    border-radius: 10px;
+}

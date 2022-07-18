@@ -8,8 +8,8 @@ const Portfolio = () => {
   return (
       <section className='Portfolio' id='project'>
           <div className='heading text-center mb-5'>
-            <h4>VISIT MY PROJECTS AND SEE THE CODES</h4>
-            <h1>My Portfolio</h1>
+          <h1>My Portfolio</h1>
+            <h5>Visit My Projects and See the Codes</h5>
           </div>
           <Container className='container'>
         <Row className='row gy-4'>
